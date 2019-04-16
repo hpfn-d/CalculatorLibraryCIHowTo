@@ -2,7 +2,7 @@
 Unit tests for the calculator library
 """
 
-from calculator.lib.calculator import add, subtract
+from calculator.lib.calculator import add, subtract, multiply
 
 
 class TestCalculator:
